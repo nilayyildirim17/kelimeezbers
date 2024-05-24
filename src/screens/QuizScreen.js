@@ -21,10 +21,10 @@ const OptionButton = ({ title, onPress, isSelected }) => {
 const QuizScreen = ({ navigation }) => {
   const [questions, setQuestions] = useState([]);
   const [currentQuestion, setCurrentQuestion] = useState(null);
-  const [currentIndex, setCurrentIndex] = useState(1);
+  const [currentIndex, setCurrentIndex] = useState(0);
   const [selectedOption, setSelectedOption] = useState('');
   const [userId, setUserId] = useState('');
-  const [newWordCount, setNewWordCount] = useState(8); // Default value
+  const [newWordCount, setNewWordCount] = useState(10); // Default value
   const [settingsWordCount, setSettingsWordCount] = useState(8); // Default value
 
   useEffect(() => {
