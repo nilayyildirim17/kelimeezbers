@@ -1,0 +1,12 @@
+[
+    { "id": 1, "english": "Apple", "turkish": "Elma", "correct": false, "attempts": 0 },
+    { "id": 2, "english": "Banana", "turkish": "Muz", "correct": false, "attempts": 0 },
+    { "id": 3, "english": "Cherry", "turkish": "Kiraz", "correct": false, "attempts": 0 },
+    { "id": 4, "english": "Date", "turkish": "Hurma", "correct": false, "attempts": 0 },
+    { "id": 5, "english": "Eggplant", "turkish": "Patlıcan", "correct": false, "attempts": 0 },
+    { "id": 6, "english": "Fig", "turkish": "İncir", "correct": false, "attempts": 0 },
+    { "id": 7, "english": "Grape", "turkish": "Üzüm", "correct": false, "attempts": 0 },
+    { "id": 8, "english": "Lemon", "turkish": "Limon", "correct": false, "attempts": 0 },
+    { "id": 9, "english": "Mango", "turkish": "Mango", "correct": false, "attempts": 0 },
+    { "id": 10, "english": "Peach", "turkish": "Şeftali", "correct": false, "attempts": 0 }
+]
